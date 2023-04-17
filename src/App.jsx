@@ -9,10 +9,12 @@ function App() {
       <Calculator01 />
       <footer>
         <p>
-          Designed and Coded by <a href="#">Ardian Pradana</a>
+          Designed and Coded by{" "}
+          <a href="https://github.com/ardiandev">Ardian Pradana</a>
         </p>
         <p>
-          Source Code <a href="#">Github </a>{" "}
+          Source Code{" "}
+          <a href="https://github.com/ardiandev/calculator-react">Github </a>
         </p>
       </footer>
     </div>
